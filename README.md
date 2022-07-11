@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JamesJiang97
-- 👀 I’m interested in 
-- 🌱 I’m currently learning C++ ， Algorithms 
-- 💞️ I’m looking to collaborate on ...
+- :office:  I’m interested in 
+- 🌱 I’m currently learning Python , sql, ml 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesJiang97&layout=compact
 )](https://github.com/anuraghazra/github-readme-stats)
