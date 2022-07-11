@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++ ， Algorithms 
 - 💞️ I’m looking to collaborate on ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesJiang97
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesJiang97&layout=compact
 )](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
